@@ -2,6 +2,9 @@
 
 Локальная транскрибация аудио- и видеофайлов в документ Word (.docx) с таймкодами.
 
+<img width="865" height="694" alt="image" src="https://github.com/user-attachments/assets/377c9f57-90f2-4475-85bd-3247e0cba65f" />
+
+
 ## Возможности
 
 - Поддержка любых аудио/видео форматов (MP3, WAV, FLAC, MP4, AVI, MKV и др.) через ffmpeg
